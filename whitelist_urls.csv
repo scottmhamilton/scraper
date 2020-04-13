@@ -1,50 +1,52 @@
 alakhbar,http://feeds.feedburner.com/AlAkhbarEnglish?format=xml,international,english
-Bilaterals.org,https://www.bilaterals.org/spip.php?page=backend-all,International,English
-CNBC,http://www.cnbc.com/id/19746125/device/rss/rss.xml,,
-FORTUNE,https://fortune.com/feed,,
-Financial Times,https://www.ft.com/?format=rss,,
-Investing.com,https://www.investing.com/rss/news.rss,,
-Seekingalpha.com,https://seekingalpha.com/market_currents.xml,,
-Morning Star,http://feeds.feedburner.com/morningstar/glkd,,
-The Economic Times,https://economictimes.indiatimes.com/rssfeedsdefault.cms,,
-Reuters,http://feeds.reuters.com/reuters/INtopNews,,
-LiveMint,https://www.livemint.com/rss/homepage,,
-Yahoo Finance,https://finance.yahoo.com/news/rssindex,,
-Business Standard,https://www.business-standard.com/rss/home_page_top_stories.rss,,
-The Financial Express,http://www.financialexpress.com/feed,,
-Business Line,https://www.thehindubusinessline.com/?service=rss,,
-business today,http://www.businesstoday.in/rss/rssstory.jsp?sid=105,,
-zee business,https://www.zeebiz.com/latest.xml/feed,,
-globes english,http://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725,,
-bloomberg quint,https://www.bloombergquint.com/feed,,
-Financial Post,https://business.financialpost.com/feed/,,
-arabian business,https://www.arabianbusiness.com/?service=rss&x=1,,
-Moneyweb,https://www.moneyweb.co.za/rss,,
-business daily,https://www.businessdailyafrica.com/latestrss.rss,,
-business matters,https://www.bmmagazine.co.uk/feed/,,
-business world,https://www.bworldonline.com/feed/,,
-Insights success,https://www.insightssuccess.com/feed,,
-canadian business,https://www.canadianbusiness.com/business-news/feed/,,
-talking biz news,http://talkingbiznews.com/feed/,,
-food business news,http://www.foodbusinessnews.net/news.aspx?rss=1,,
-business travel news,https://www.businesstravelnews.com/rss/business-travel-news,,
-modest money,http://feeds.feedburner.com/ModestMoney,,
-business news.com,https://www.businessnews.com.au/rssfeed/latest.rss,,
-long island business news,https://libn.com/feed/,,
-bay street feed,http://rss.baystreet.ca/,,
-international business times,https://www.ibtimes.com.au/rss,,
-iot business news,https://iotbusinessnews.com/feed/,,
-budapest business journal,https://bbj.hu/site/assets/rss/rss.php,,
-business news philippines,https://www.businessnews.com.ph/feed/,,
-thailand business news,https://www.thailand-business-news.com/feed,,
-jewish business news,http://feeds.feedburner.com/JewishBusinessNews,,
-futures mag,http://www.futuresmag.com/rss.xml,,
-WTO,http://www.wto.org/library/rss/latest_news_e.xml,,
-DG Trade,https://trade.ec.europa.eu/doclib/rss/rss_whatsnew.xml,,
-EP International Trade Committee,https://www.europarl.europa.eu/rss/committee/inta/en.xml,,
-competitiveness council,https://www.consilium.europa.eu/en/rss/meetings.ashx?cat=wp-compet,,
-foreign affairs council,https://www.consilium.europa.eu/en/rss/meetings.ashx?cat=wp-fac,,
-economic and financial affairs council,https://www.consilium.europa.eu/en/rss/meetings.ashx?cat=wp-ecofin,,
-council latest documents,http://www.consilium.europa.eu/register/en/rss/LD.xml,,
-council external relations,http://www.consilium.europa.eu/register/en/rss/THMER.xml,,
-The Parliament Magazine,https://www.theparliamentmagazine.eu/articles/news/rss.xml,,
+Bilaterals.org,https://www.bilaterals.org/spip.php?page=backend-all,International,english
+CNBC,http://www.cnbc.com/id/19746125/device/rss/rss.xml,International,english
+FORTUNE,https://fortune.com/feed,International,english
+Financial Times,https://www.ft.com/?format=rss,International,english
+Investing.com,https://www.investing.com/rss/news.rss,International,english
+Seekingalpha.com,https://seekingalpha.com/market_currents.xml,International,english
+Morning Star,http://feeds.feedburner.com/morningstar/glkd,International,english
+The Economic Times,https://economictimes.indiatimes.com/rssfeedsdefault.cms,International,english
+Reuters,http://feeds.reuters.com/reuters/INtopNews,International,english
+LiveMint,https://www.livemint.com/rss/homepage,International,english
+Yahoo Finance,https://finance.yahoo.com/news/rssindex,International,english
+Business Standard,https://www.business-standard.com/rss/home_page_top_stories.rss,International,english
+The Financial Express,http://www.financialexpress.com/feed,International,english
+Business Line,https://www.thehindubusinessline.com/?service=rss,International,english
+business today,http://www.businesstoday.in/rss/rssstory.jsp?sid=105,International,english
+zee business,https://www.zeebiz.com/latest.xml/feed,International,english
+globes english,http://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725,International,english
+bloomberg quint,https://www.bloombergquint.com/feed,International,english
+Financial Post,https://business.financialpost.com/feed/,International,english
+arabian business,https://www.arabianbusiness.com/?service=rss&x=1,International,english
+Moneyweb,https://www.moneyweb.co.za/rss,International,english
+business daily,https://www.businessdailyafrica.com/latestrss.rss,International,english
+business matters,https://www.bmmagazine.co.uk/feed/,International,english
+business world,https://www.bworldonline.com/feed/,International,english
+Insights success,https://www.insightssuccess.com/feed,International,english
+canadian business,https://www.canadianbusiness.com/business-news/feed/,International,english
+talking biz news,http://talkingbiznews.com/feed/,International,english
+food business news,http://www.foodbusinessnews.net/news.aspx?rss=1,International,english
+business travel news,https://www.businesstravelnews.com/rss/business-travel-news,International,english
+modest money,http://feeds.feedburner.com/ModestMoney,International,english
+business news.com,https://www.businessnews.com.au/rssfeed/latest.rss,International,english
+long island business news,https://libn.com/feed/,International,english
+bay street feed,http://rss.baystreet.ca/,International,english
+international business times,https://www.ibtimes.com.au/rss,International,english
+iot business news,https://iotbusinessnews.com/feed/,International,english
+budapest business journal,https://bbj.hu/site/assets/rss/rss.php,International,english
+business news philippines,https://www.businessnews.com.ph/feed/,International,english
+thailand business news,https://www.thailand-business-news.com/feed,International,english
+jewish business news,http://feeds.feedburner.com/JewishBusinessNews,International,english
+futures mag,http://www.futuresmag.com/rss.xml,International,english
+WTO,http://www.wto.org/library/rss/latest_news_e.xml,International,english
+DG Trade,https://trade.ec.europa.eu/doclib/rss/rss_whatsnew.xml,International,english
+EP International Trade Committee,https://www.europarl.europa.eu/rss/committee/inta/en.xml,International,english
+competitiveness council,https://www.consilium.europa.eu/en/rss/meetings.ashx?cat=wp-compet,International,english
+foreign affairs council,https://www.consilium.europa.eu/en/rss/meetings.ashx?cat=wp-fac,International,english
+economic and financial affairs council,https://www.consilium.europa.eu/en/rss/meetings.ashx?cat=wp-ecofin,International,english
+council latest documents,http://www.consilium.europa.eu/register/en/rss/LD.xml,International,english
+council external relations,http://www.consilium.europa.eu/register/en/rss/THMER.xml,International,english
+The Parliament Magazine,https://www.theparliamentmagazine.eu/articles/news/rss.xml,International,english
+,,International,english
+,,,english
